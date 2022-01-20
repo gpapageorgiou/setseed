@@ -1,0 +1,14 @@
+name: "setseed"
+output_dir: "."
+navbar:
+  title: "setseed"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - icon: fab fa-github fa-lg
+      href: https://github.com/gpapageorgiou 
+    - icon: fab fa-twitter fa-lg
+      href: https://twitter.com/gr_papageorgiou
+    - icon: fab fa-linkedin fa-lg
+      href:  https://nl.linkedin.com/in/grigorios-papageorgiou-1b57145a  
